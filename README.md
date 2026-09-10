@@ -12,12 +12,6 @@
 * Linux
 * And more...
 
-## 🚀 Projects
-
-### 🎮 Gaming Toolkit
-
-A desktop toolkit I'm building with Python and Tkinter.
-
 ### 🔧 More Coming Soon
 
 Always working on something new.
